@@ -6,4 +6,5 @@ module.exports = defineConfig({
   e2e: {
     baseUrl: 'https://buger-eats-qa.vercel.app',
   },
+  projectId: "7kgig9"
 });
