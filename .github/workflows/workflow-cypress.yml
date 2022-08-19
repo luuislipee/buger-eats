@@ -1,4 +1,5 @@
 name: Cypress Regression Tests
+cypress open --config-file=cypress.config.js    
 
 on: [push]
 
