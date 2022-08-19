@@ -1,0 +1,19 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de Testes de Aceitação do app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Luis Chiaradia",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "cypress": "^10.4.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-grep": "^3.0.2",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
